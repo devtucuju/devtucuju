@@ -2,11 +2,12 @@
 
 <p align="left">
   <strong>Analista de Sistemas · UNIFAP</strong><br/>
-  Mestre em Propriedade Intelectual e Transferência de Tecnologia (PROFNIT) · Especialista em Arquitetura e Engenharia de Sistemas
+  Mestre em Propriedade Intelectual e Transferência de Tecnologia (PROFNIT) · Especialista em Arquitetura e Engenharia de Sistemas<br/>
+  <em>Pós-graduação em andamento:</em> Engenharia de Software em IA Aplicada — Anhanguera
 </p>
 
 <p align="left">
-  Profissional de TI com <strong>+14 anos</strong> no setor público e privado. Atuo em <strong>DevSecOps</strong>, desenvolvimento <strong>mobile</strong> (React Native & Flutter), backend e arquitetura de sistemas — conectando engenharia de software, segurança e transferência de tecnologia.
+  Profissional de TI com <strong>+14 anos</strong> no setor público e privado. Atuo em <strong>DevSecOps</strong>, desenvolvimento <strong>mobile</strong> (React Native & Flutter), backend e arquitetura de sistemas — conectando engenharia de software, <strong>IA aplicada</strong>, segurança e transferência de tecnologia.
 </p>
 
 <p align="left">
@@ -14,6 +15,7 @@
   <a href="http://lattes.cnpq.br/8807311481938166"><img src="https://img.shields.io/badge/Lattes-CNPq-005EB8?style=flat" alt="Currículo Lattes" /></a>
   <a href="https://github.com/devtucuju"><img src="https://img.shields.io/badge/GitHub-devtucuju-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.unifap.br/"><img src="https://img.shields.io/badge/UNIFAP-Analista%20de%20Sistemas-006633?style=flat" alt="UNIFAP" /></a>
+  <img src="https://img.shields.io/badge/Pós--graduação-IA_Aplicada-FF6B00?style=flat&logo=googlecloud&logoColor=white" alt="Engenharia de Software em IA Aplicada" />
   <img src="https://img.shields.io/badge/Macapá--AP-Brasil-004A99?style=flat&logo=googlemaps&logoColor=white" alt="Macapá, Amapá" />
 </p>
 
@@ -29,6 +31,7 @@ Hoje, como **Analista de Sistemas na [UNIFAP](https://www.unifap.br/)**, combino
 - **Mobile** — React Native e Flutter para apps multiplataforma
 - **Arquitetura & backend** — Python, Node.js, Go, PostgreSQL
 - **Inovação & PI** — formação em transferência de tecnologia pelo [PROFNIT/UNIFAP](https://www2.unifap.br/profnit/)
+- **IA aplicada** — pós-graduação lato sensu em Engenharia de Software em IA Aplicada ([Anhanguera](https://www.anhanguera.com/), EAD, 2026–2027)
 
 ---
 
@@ -44,12 +47,13 @@ Hoje, como **Analista de Sistemas na [UNIFAP](https://www.unifap.br/)**, combino
 
 ## Formação
 
-| Nível | Curso | Instituição |
-|-------|-------|-------------|
-| Mestrado | Propriedade Intelectual e Transferência de Tecnologia para a Inovação | [PROFNIT / UNIFAP](https://www2.unifap.br/profnit/) |
-| Especialização | Engenharia e Arquitetura de Sistemas | Estácio de Sá |
-| Tecnólogo | Análise e Desenvolvimento de Sistemas | UNIP |
-| Formação | Trilha Node.js | Rocketseat |
+| Nível | Curso | Instituição | Período |
+|-------|-------|-------------|---------|
+| **Pós-graduação Lato Sensu** *(em andamento)* | Engenharia de Software em IA Aplicada — TIC (480 h/a, EAD) | [Anhanguera](https://www.anhanguera.com/) | mar/2026 — mar/2027 |
+| Mestrado | Propriedade Intelectual e Transferência de Tecnologia para a Inovação | [PROFNIT / UNIFAP](https://www2.unifap.br/profnit/) | Concluído |
+| Especialização | Engenharia e Arquitetura de Sistemas | Estácio de Sá | 2014 — 2015 |
+| Tecnólogo | Análise e Desenvolvimento de Sistemas | UNIP | 2013 — 2015 |
+| Formação | Trilha Node.js | Rocketseat | 2021 |
 
 ---
 
@@ -100,6 +104,7 @@ Hoje, como **Analista de Sistemas na [UNIFAP](https://www.unifap.br/)**, combino
 
 ## Em foco agora
 
+- Pós-graduação em **Engenharia de Software em IA Aplicada** (Anhanguera, EAD)
 - Pipeline DevSecOps com SAST, DAST, deploy blue-green e observabilidade
 - Apps mobile com React Native e Flutter
 - IA aplicada ao desenvolvimento e transferência de tecnologia na UNIFAP
@@ -138,7 +143,7 @@ Hoje, como **Analista de Sistemas na [UNIFAP](https://www.unifap.br/)**, combino
 </p>
 
 <p align="left">
-  Aberto a colaborações em <strong>DevSecOps</strong>, <strong>mobile</strong>, <strong>software público/educacional</strong> e projetos de <strong>inovação & transferência de tecnologia</strong>.
+  Aberto a colaborações em <strong>DevSecOps</strong>, <strong>mobile</strong>, <strong>IA aplicada</strong>, <strong>software público/educacional</strong> e projetos de <strong>inovação & transferência de tecnologia</strong>.
 </p>
 
 ---
